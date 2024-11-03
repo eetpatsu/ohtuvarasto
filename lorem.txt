@@ -1,3 +1,0 @@
-lorem
-hello
-git restore ipsum.txt
